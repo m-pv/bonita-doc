@@ -7,7 +7,7 @@ This changelog must be read before [migrating to a newer version of Bonita](migr
 
 ## 2.46.0 - XXXX YYYY, 2019 (Bonita 7.10.0)
 This version of the migration tool migrates Bonita up to version 7.9.4.
-* Add a live-migration tool to reintgrate arch_contract_data_back into arch_contract_data table
+* Add a live-migration tool to reintegrate arch_contract_data_backup into arch_contract_data table
 
 ## 2.45.0 - October 3rd, 2019 (Bonita 7.9.4)
 This version of the migration tool migrates Bonita up to version 7.9.4.
